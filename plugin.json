@@ -1,7 +1,7 @@
 {
   "spec": "soksak-plugin-spec@1",
   "id": "soksak-plugin-agent-claude",
-  "name": "Claude Code",
+  "name": { "en": "Claude Code", "ko": "Claude Code" },
   "version": "1.2.0",
   "repo": "https://github.com/soksak-ai/soksak-plugin-agent-claude.git",
   "description": {
